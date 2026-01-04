@@ -1,7 +1,7 @@
 # DSA-Solutions (C++)
 
 ## Student Details
-- **Name:** Soumya Pathak  
+- **Name:** Somya Pathak  
 - **Registration No:** RA2411026011221
 - **Section & Course:** AH2 / Computer Science and Engineering  (AI/ML)
 - **Institution:** SRM Institute of Science and Technology  
